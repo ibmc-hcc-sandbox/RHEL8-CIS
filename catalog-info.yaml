@@ -7,7 +7,7 @@ metadata:
   description: |
     This ansible role will scan and remediate CIS recommendations for RHEL
   annotations:
-    github.com/project-slug: ibmc-hcc-sandbox/community.sap_install
+    github.com/project-slug: ibmc-hcc-sandbox/ansible_role_rhel8_cis
     backstage.io/techdocs-ref: dir:.
   tags:
     - ansible
